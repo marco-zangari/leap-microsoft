@@ -1,5 +1,5 @@
 # MARCO ZANGARI
-mjzangari@gmail.com | linkedin.com/in/marco-zangari | github.com/marco-zangari | 206.229.0365
+linkedin.com/in/marco-zangari | github.com/marco-zangari
 
 ## PROFILE
 #### Python developer inspired to make more intuitive code through clean architecture
