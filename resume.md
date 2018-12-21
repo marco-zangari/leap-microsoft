@@ -32,5 +32,7 @@ Use REST API and natural language processing to format article content so that u
 
 ## EDUCATION + TRAINING
 Code Fellows, Certificate Advanced Software Development in Python, Dec_2017
+
 University of Washington, PhD in Classical Languages
+
 New York University, BA in Classical Languages
