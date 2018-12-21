@@ -1,4 +1,5 @@
-# MARCO ZANGARI mjzangari@gmail.com | linkedin.com/in/marco-zangari | github.com/marco-zangari | 206.229.0365
+# MARCO ZANGARI
+mjzangari@gmail.com | linkedin.com/in/marco-zangari | github.com/marco-zangari | 206.229.0365
 
 ## PROFILE
 #### Python developer inspired to make more intuitive code through clean architecture
@@ -8,16 +9,16 @@
 
 ## EXPERIENCE
 ### LookFitFeel, Software Development Engineer, 2018_present
-#### Develop secure API to handle requests for customers in startup environment. Remote team workflow with continuous integration through Travis and deployment with Docker. Monkey-wrenching API-database performance whether through a PHP front-end or through a Python backend. Participate in planning and design of new features and applications. Produce documentation for processes and general functionality.
+#### Develop secure API to handle requests for customers in startup environment. Remote team workflow with continuous integration through Travis and deployment with Docker. Monkey-wrenching API-database performance whether through a PHP front-end or through a Python backend. Participate in planning and design of new features and applications. Produce documentation for processes and general functionality
 
 ### Code Fellows, TA, 2018_2018
-#### Help advanced Python students in course and lab work. Grade assignments as part of a TA cohort in conjunction with course's lead instructor.
+#### Help advanced Python students in course and lab work. Grade assignments as part of a TA cohort in conjunction with course's lead instructor
 
 ### Seattle University, Adjunct Professor, 2010_2017
-#### Produce content within curricular architectures focused on outcome learning objectives. Develop new classes on storytelling, food, and the city. Guide student research projects. Advise students. Participate in History and Honors Departments.
+#### Produce content within curricular architectures focused on outcome learning objectives. Develop new classes on storytelling, food, and the city. Guide student research projects. Advise students. Participate in History and Honors Departments
 
 ### Duke University ICCS-Catania, Visiting Assistant Professor, 2009_10
-#### Designed ancient Greek language classes around Athenian theatrical and imperial ambitions. Organized and co-led travel seminar centered on and through the colonial, classical, and Hellenistic architecture of Sicily and Northern Africa, specifically modern day Tunisia.
+#### Designed ancient Greek language classes around Athenian theatrical and imperial ambitions. Organized and co-led travel seminar centered on and through the colonial, classical, and Hellenistic architecture of Sicily and Northern Africa, specifically modern day Tunisia
 
 ## PROJECTS
 ### Avatax-Rest-V2-Python-SDK, Apr_2018
@@ -30,6 +31,6 @@
 #### Use REST API and natural language processing to format article content so that users have most up-to-date subjects to use in casual interactions
 
 ## EDUCATION + TRAINING
-### Code Fellows, Certificate Advanced Software Development in Python | Dec_2017
-### University of Washington, PhD in Classical Languages
-### New York University, BA in Classical Languages
+#### Code Fellows, Certificate Advanced Software Development in Python, Dec_2017
+#### University of Washington, PhD in Classical Languages
+#### New York University, BA in Classical Languages
