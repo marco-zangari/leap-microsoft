@@ -5,7 +5,9 @@
 Python developer inspired to make more intuitive code through clean architecture
 
 ## LANGUAGES + TOOLS
-Python, Git, Django, Flask, MySQL, JavaScript, HTML, CSS, jQuery, AWS, SQL, PostgreSQL, Node.js, Heroku, React, Pyramid. Speaking Languages: English, Italian, German, Latin, Ancient Greek
+Python, Git, Django, Flask, MySQL, JavaScript, HTML, CSS, jQuery, AWS, SQL, PostgreSQL, Node.js, Heroku, React, Pyramid.
+
+Speaking Languages: English, Italian, German, Latin, Ancient Greek
 
 ## EXPERIENCE
 ### [LookFitFeel](https://www.lookfitfeel.com/), Software Development Engineer, 2018_present
