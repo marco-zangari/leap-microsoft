@@ -1,5 +1,5 @@
 # MARCO ZANGARI
-linkedin.com/in/marco-zangari | github.com/marco-zangari
+[LinkedIn](linkedin.com/in/marco-zangari) | [GitHub](github.com/marco-zangari)
 
 ## PROFILE
 Python developer inspired to make more intuitive code through clean architecture
