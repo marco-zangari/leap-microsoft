@@ -11,7 +11,7 @@ Python, Git, Django, Flask, MySQL, JavaScript, HTML, CSS, jQuery, AWS, SQL, Post
 ### [LookFitFeel](https://www.lookfitfeel.com/), Software Development Engineer, 2018_present
 Develop secure API to handle requests for customers in startup environment. Remote team workflow with continuous integration through Travis and deployment with Docker. Monkey-wrenching API-database performance whether through a PHP front-end or through a Python backend. Participate in planning and design of new features and applications. Produce documentation for processes and general functionality
 
-### Code Fellows, TA, 2018_2018
+### [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/), TA, 2018_2018
 Help advanced Python students in course and lab work. Grade assignments as part of a TA cohort in conjunction with course's lead instructor
 
 ### Seattle University, Adjunct Professor, 2010_2017
