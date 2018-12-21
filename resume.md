@@ -21,7 +21,7 @@ Produce content within curricular architectures focused on outcome learning obje
 Designed ancient Greek language classes around Athenian theatrical and imperial ambitions. Organized and co-led travel seminar centered on and through the colonial, classical, and Hellenistic architecture of Sicily and Northern Africa, specifically modern day Tunisia
 
 ## PROJECTS
-### [Avatax-Rest-V2-Python-SDK[(https://github.com/marco-zangari/AvaTax-REST-V2-Python-SDK), Apr_2018
+### [Avatax-Rest-V2-Python-SDK](https://github.com/marco-zangari/AvaTax-REST-V2-Python-SDK), Apr_2018
 Sent pull request to the AvaTax REST API during a bugbash at the Avalara offices, through Code Fellows, to tighten the READMe documentation. Pull request was merged
 
 ### [AIM: Alexa Instant Messaging](https://github.com/RJB888/alexa_skill), Nov_2017
